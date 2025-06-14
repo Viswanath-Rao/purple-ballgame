@@ -1,43 +1,39 @@
 # purple-ballgame
-🎮 Purple Ball Game – A fun 2D platformer made with Python &amp; Pygame! Control a purple ball with WASD, dodge obstacles, and use the Z key to turn invisible. Multiple levels, clean visuals, and smooth gameplay. Great for beginners in game dev! Run with: python3 main.py Made with 💜 in Pygame!
-✨ Key Features
+🎮 Purple Ball Game – A fun 2D platformer made with Python &amp; Pygame! Control a purple ball with WASD, dodge obstacles, and use the Z key to turn invisible. Multiple levels, clean visuals, and smooth gameplay.
+
+🚀 How to Play
 🎮 Simple Controls: Use W, A, S, D to move and jump.
 
-🫥 Invisibility Mode: Press Z to activate an invisibility skill that lets you pass through certain obstacles (with a cooldown).
+🫥 Invisibility Mode: 
+Press Z to activate an invisibility skill that lets you pass through certain obstacles (with a cooldown).
 
 🧱 Platform Challenges: Each level presents new obstacles, layouts, and hazards.
 
 🏁 Goal-Oriented Gameplay: Reach the flag or door to complete a level and unlock the next.
 
-🎨 Colorful Aesthetic: Clean and colorful visuals to keep things fun and engaging.
+🛠️ Built with Python + Pygame: 
+Great example for anyone learning game development with Pygame.
 
-🛠️ Built with Python + Pygame: Great example for anyone learning game development with Pygame.
+📦 Installation & Running
 
-🚀 How to Run the Game
-Make sure Python 3.7+ and Pygame 2.0+ are installed.
+Ensure Python 3.7+ and Pygame 2.0+ are installed:
 
-Clone or copy the game folder.
+ pip install pygame
 
-Open terminal and run:
+Clone or download the repository.
 
-bash
-Copy
-Edit
-cd purple_ball_game
-python3 main.py
-If pygame isn’t installed, do this first:
+Navigate to the game directory and run:
+ python3 main.py
+ 
+🧠 Why This Game?
+This project is a perfect starting point for beginners looking to explore game development with Python. It covers fundamental concepts such as sprite movement, event handling, game loops, and basic game physics. The added invisibility mechanic introduces conditional logic and power-up mechanics, which can be extended further.
 
-bash
-Copy
-Edit
-pip3 install pygame --break-system-packages
-🧑‍💻 Who Is It For?
-Whether you're just starting out with Python or want a fun little coding challenge, this game is an excellent way to learn about:
+💡 Built With
 
-Sprite animation
+Python 3
 
-Collision detection
+Pygame Library
 
-Event handling
+Creative ideas and late-night debugging
 
-Game loops and states
+MADE with 💜 Amazon Q CLI
