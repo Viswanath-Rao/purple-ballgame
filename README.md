@@ -33,6 +33,9 @@ Clone or download the repository.
 Navigate to the game directory and run:
 
  python3 main.py
+ ![image](https://github.com/user-attachments/assets/e1d36e9e-9972-4efc-88c5-f2a379fdaa9a)
+ 
+
  
 🧠 Why This Game: 
 
